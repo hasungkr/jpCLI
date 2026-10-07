@@ -1,0 +1,29 @@
+{
+  "name": "jpcli",
+  "version": "1.0.0",
+  "description": "creating a CLI for learning Japanese! (may implement TUI later)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasungkr/jpCLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hasungkr/jpCLI/issues"
+  },
+  "homepage": "https://github.com/hasungkr/jpCLI#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
